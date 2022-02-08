@@ -21,12 +21,7 @@ function App() {
         <
         Post / >
         <
-        /Route> <
-        Route path = '/add_post' >
-        <
-        AddPost / >
-        <
-        /Route> <
+        /Route>  <
         Route path = '/calculator' >
         <
         Calculator / >
@@ -36,13 +31,8 @@ function App() {
         <
         Loan / >
         <
-        /Route> <
-        Route path = '/fetchdata' >
-        <
-        FetchData / >
-        <
-        /Route> <
-        /Switch> <
+        /Route>  < /
+        Switch > <
         /div>
     );
 }
